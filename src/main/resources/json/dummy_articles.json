@@ -1,0 +1,2002 @@
+[
+	{
+		"articleNumber": "00000001",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 1"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 1"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 1"
+			}
+		],
+		"price": 7.8382,
+		"articleTextShortDE": "Text DE 1"
+	},
+	{
+		"articleNumber": "00000002",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 2"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 2"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 2"
+			}
+		],
+		"price": 0.0667,
+		"articleTextShortDE": "Text DE 2"
+	},
+	{
+		"articleNumber": "00000003",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 3"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 3"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 3"
+			}
+		],
+		"price": 1.3376,
+		"articleTextShortDE": "Text DE 3"
+	},
+	{
+		"articleNumber": "00000004",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 4"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 4"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 4"
+			}
+		],
+		"price": 1.372,
+		"articleTextShortDE": "Text DE 4"
+	},
+	{
+		"articleNumber": "00000005",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 5"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 5"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 5"
+			}
+		],
+		"price": 2.7344,
+		"articleTextShortDE": "Text DE 5"
+	},
+	{
+		"articleNumber": "00000006",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 6"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 6"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 6"
+			}
+		],
+		"price": 8.2043,
+		"articleTextShortDE": "Text DE 6"
+	},
+	{
+		"articleNumber": "00000007",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 7"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 7"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 7"
+			}
+		],
+		"price": 6.3859,
+		"articleTextShortDE": "Text DE 7"
+	},
+	{
+		"articleNumber": "00000008",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 8"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 8"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 8"
+			}
+		],
+		"price": 0.6359,
+		"articleTextShortDE": "Text DE 8"
+	},
+	{
+		"articleNumber": "00000009",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 9"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 9"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 9"
+			}
+		],
+		"price": 2.004,
+		"articleTextShortDE": "Text DE 9"
+	},
+	{
+		"articleNumber": "00000010",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 10"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 10"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 10"
+			}
+		],
+		"price": 6.6327,
+		"articleTextShortDE": "Text DE 10"
+	},
+	{
+		"articleNumber": "00000011",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 11"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 11"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 11"
+			}
+		],
+		"price": 8.6173,
+		"articleTextShortDE": "Text DE 11"
+	},
+	{
+		"articleNumber": "00000012",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 12"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 12"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 12"
+			}
+		],
+		"price": 7.8479,
+		"articleTextShortDE": "Text DE 12"
+	},
+	{
+		"articleNumber": "00000013",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 13"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 13"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 13"
+			}
+		],
+		"price": 2.4299,
+		"articleTextShortDE": "Text DE 13"
+	},
+	{
+		"articleNumber": "00000014",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 14"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 14"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 14"
+			}
+		],
+		"price": 3.6999,
+		"articleTextShortDE": "Text DE 14"
+	},
+	{
+		"articleNumber": "00000015",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 15"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 15"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 15"
+			}
+		],
+		"price": 3.1736,
+		"articleTextShortDE": "Text DE 15"
+	},
+	{
+		"articleNumber": "00000016",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 16"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 16"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 16"
+			}
+		],
+		"price": 2.428,
+		"articleTextShortDE": "Text DE 16"
+	},
+	{
+		"articleNumber": "00000017",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 17"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 17"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 17"
+			}
+		],
+		"price": 7.5875,
+		"articleTextShortDE": "Text DE 17"
+	},
+	{
+		"articleNumber": "00000018",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 18"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 18"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 18"
+			}
+		],
+		"price": 4.5441,
+		"articleTextShortDE": "Text DE 18"
+	},
+	{
+		"articleNumber": "00000019",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 19"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 19"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 19"
+			}
+		],
+		"price": 9.925,
+		"articleTextShortDE": "Text DE 19"
+	},
+	{
+		"articleNumber": "00000020",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 20"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 20"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 20"
+			}
+		],
+		"price": 1.2329,
+		"articleTextShortDE": "Text DE 20"
+	},
+	{
+		"articleNumber": "00000021",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 21"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 21"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 21"
+			}
+		],
+		"price": 8.3523,
+		"articleTextShortDE": "Text DE 21"
+	},
+	{
+		"articleNumber": "00000022",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 22"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 22"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 22"
+			}
+		],
+		"price": 3.0493,
+		"articleTextShortDE": "Text DE 22"
+	},
+	{
+		"articleNumber": "00000023",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 23"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 23"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 23"
+			}
+		],
+		"price": 8.417,
+		"articleTextShortDE": "Text DE 23"
+	},
+	{
+		"articleNumber": "00000024",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 24"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 24"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 24"
+			}
+		],
+		"price": 9.3702,
+		"articleTextShortDE": "Text DE 24"
+	},
+	{
+		"articleNumber": "00000025",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 25"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 25"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 25"
+			}
+		],
+		"price": 3.703,
+		"articleTextShortDE": "Text DE 25"
+	},
+	{
+		"articleNumber": "00000026",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 26"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 26"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 26"
+			}
+		],
+		"price": 7.0289,
+		"articleTextShortDE": "Text DE 26"
+	},
+	{
+		"articleNumber": "00000027",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 27"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 27"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 27"
+			}
+		],
+		"price": 2.8108,
+		"articleTextShortDE": "Text DE 27"
+	},
+	{
+		"articleNumber": "00000028",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 28"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 28"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 28"
+			}
+		],
+		"price": 4.365,
+		"articleTextShortDE": "Text DE 28"
+	},
+	{
+		"articleNumber": "00000029",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 29"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 29"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 29"
+			}
+		],
+		"price": 7.0006,
+		"articleTextShortDE": "Text DE 29"
+	},
+	{
+		"articleNumber": "00000030",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 30"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 30"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 30"
+			}
+		],
+		"price": 0.4247,
+		"articleTextShortDE": "Text DE 30"
+	},
+	{
+		"articleNumber": "00000031",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 31"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 31"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 31"
+			}
+		],
+		"price": 5.4834,
+		"articleTextShortDE": "Text DE 31"
+	},
+	{
+		"articleNumber": "00000032",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 32"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 32"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 32"
+			}
+		],
+		"price": 5.5206,
+		"articleTextShortDE": "Text DE 32"
+	},
+	{
+		"articleNumber": "00000033",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 33"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 33"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 33"
+			}
+		],
+		"price": 4.3452,
+		"articleTextShortDE": "Text DE 33"
+	},
+	{
+		"articleNumber": "00000034",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 34"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 34"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 34"
+			}
+		],
+		"price": 9.9946,
+		"articleTextShortDE": "Text DE 34"
+	},
+	{
+		"articleNumber": "00000035",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 35"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 35"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 35"
+			}
+		],
+		"price": 9.5223,
+		"articleTextShortDE": "Text DE 35"
+	},
+	{
+		"articleNumber": "00000036",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 36"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 36"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 36"
+			}
+		],
+		"price": 0.4024,
+		"articleTextShortDE": "Text DE 36"
+	},
+	{
+		"articleNumber": "00000037",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 37"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 37"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 37"
+			}
+		],
+		"price": 5.837,
+		"articleTextShortDE": "Text DE 37"
+	},
+	{
+		"articleNumber": "00000038",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 38"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 38"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 38"
+			}
+		],
+		"price": 2.951,
+		"articleTextShortDE": "Text DE 38"
+	},
+	{
+		"articleNumber": "00000039",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 39"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 39"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 39"
+			}
+		],
+		"price": 9.7383,
+		"articleTextShortDE": "Text DE 39"
+	},
+	{
+		"articleNumber": "00000040",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 40"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 40"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 40"
+			}
+		],
+		"price": 0.7741,
+		"articleTextShortDE": "Text DE 40"
+	},
+	{
+		"articleNumber": "00000041",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 41"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 41"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 41"
+			}
+		],
+		"price": 7.6107,
+		"articleTextShortDE": "Text DE 41"
+	},
+	{
+		"articleNumber": "00000042",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 42"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 42"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 42"
+			}
+		],
+		"price": 6.3256,
+		"articleTextShortDE": "Text DE 42"
+	},
+	{
+		"articleNumber": "00000043",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 43"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 43"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 43"
+			}
+		],
+		"price": 9.0154,
+		"articleTextShortDE": "Text DE 43"
+	},
+	{
+		"articleNumber": "00000044",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 44"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 44"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 44"
+			}
+		],
+		"price": 1.0289,
+		"articleTextShortDE": "Text DE 44"
+	},
+	{
+		"articleNumber": "00000045",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 45"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 45"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 45"
+			}
+		],
+		"price": 2.3667,
+		"articleTextShortDE": "Text DE 45"
+	},
+	{
+		"articleNumber": "00000046",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 46"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 46"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 46"
+			}
+		],
+		"price": 8.4478,
+		"articleTextShortDE": "Text DE 46"
+	},
+	{
+		"articleNumber": "00000047",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 47"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 47"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 47"
+			}
+		],
+		"price": 1.8256,
+		"articleTextShortDE": "Text DE 47"
+	},
+	{
+		"articleNumber": "00000048",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 48"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 48"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 48"
+			}
+		],
+		"price": 3.1828,
+		"articleTextShortDE": "Text DE 48"
+	},
+	{
+		"articleNumber": "00000049",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 49"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 49"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 49"
+			}
+		],
+		"price": 8.7865,
+		"articleTextShortDE": "Text DE 49"
+	},
+	{
+		"articleNumber": "00000050",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 50"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 50"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 50"
+			}
+		],
+		"price": 7.8618,
+		"articleTextShortDE": "Text DE 50"
+	},
+	{
+		"articleNumber": "00000051",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 51"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 51"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 51"
+			}
+		],
+		"price": 9.5612,
+		"articleTextShortDE": "Text DE 51"
+	},
+	{
+		"articleNumber": "00000052",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 52"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 52"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 52"
+			}
+		],
+		"price": 3.8361,
+		"articleTextShortDE": "Text DE 52"
+	},
+	{
+		"articleNumber": "00000053",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 53"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 53"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 53"
+			}
+		],
+		"price": 5.6991,
+		"articleTextShortDE": "Text DE 53"
+	},
+	{
+		"articleNumber": "00000054",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 54"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 54"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 54"
+			}
+		],
+		"price": 5.2479,
+		"articleTextShortDE": "Text DE 54"
+	},
+	{
+		"articleNumber": "00000055",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 55"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 55"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 55"
+			}
+		],
+		"price": 2.9701,
+		"articleTextShortDE": "Text DE 55"
+	},
+	{
+		"articleNumber": "00000056",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 56"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 56"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 56"
+			}
+		],
+		"price": 0.1586,
+		"articleTextShortDE": "Text DE 56"
+	},
+	{
+		"articleNumber": "00000057",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 57"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 57"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 57"
+			}
+		],
+		"price": 5.1586,
+		"articleTextShortDE": "Text DE 57"
+	},
+	{
+		"articleNumber": "00000058",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 58"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 58"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 58"
+			}
+		],
+		"price": 9.4719,
+		"articleTextShortDE": "Text DE 58"
+	},
+	{
+		"articleNumber": "00000059",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 59"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 59"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 59"
+			}
+		],
+		"price": 5.4259,
+		"articleTextShortDE": "Text DE 59"
+	},
+	{
+		"articleNumber": "00000060",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 60"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 60"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 60"
+			}
+		],
+		"price": 3.9184,
+		"articleTextShortDE": "Text DE 60"
+	},
+	{
+		"articleNumber": "00000061",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 61"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 61"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 61"
+			}
+		],
+		"price": 9.691,
+		"articleTextShortDE": "Text DE 61"
+	},
+	{
+		"articleNumber": "00000062",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 62"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 62"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 62"
+			}
+		],
+		"price": 9.7548,
+		"articleTextShortDE": "Text DE 62"
+	},
+	{
+		"articleNumber": "00000063",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 63"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 63"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 63"
+			}
+		],
+		"price": 7.0289,
+		"articleTextShortDE": "Text DE 63"
+	},
+	{
+		"articleNumber": "00000064",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 64"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 64"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 64"
+			}
+		],
+		"price": 4.8469,
+		"articleTextShortDE": "Text DE 64"
+	},
+	{
+		"articleNumber": "00000065",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 65"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 65"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 65"
+			}
+		],
+		"price": 2.8912,
+		"articleTextShortDE": "Text DE 65"
+	},
+	{
+		"articleNumber": "00000066",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 66"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 66"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 66"
+			}
+		],
+		"price": 2.137,
+		"articleTextShortDE": "Text DE 66"
+	},
+	{
+		"articleNumber": "00000067",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 67"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 67"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 67"
+			}
+		],
+		"price": 3.5996,
+		"articleTextShortDE": "Text DE 67"
+	},
+	{
+		"articleNumber": "00000068",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 68"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 68"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 68"
+			}
+		],
+		"price": 7.2235,
+		"articleTextShortDE": "Text DE 68"
+	},
+	{
+		"articleNumber": "00000069",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 69"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 69"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 69"
+			}
+		],
+		"price": 9.2743,
+		"articleTextShortDE": "Text DE 69"
+	},
+	{
+		"articleNumber": "00000070",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 70"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 70"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 70"
+			}
+		],
+		"price": 9.9053,
+		"articleTextShortDE": "Text DE 70"
+	},
+	{
+		"articleNumber": "00000071",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 71"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 71"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 71"
+			}
+		],
+		"price": 6.5178,
+		"articleTextShortDE": "Text DE 71"
+	},
+	{
+		"articleNumber": "00000072",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 72"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 72"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 72"
+			}
+		],
+		"price": 6.4618,
+		"articleTextShortDE": "Text DE 72"
+	},
+	{
+		"articleNumber": "00000073",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 73"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 73"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 73"
+			}
+		],
+		"price": 8.8282,
+		"articleTextShortDE": "Text DE 73"
+	},
+	{
+		"articleNumber": "00000074",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 74"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 74"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 74"
+			}
+		],
+		"price": 4.4573,
+		"articleTextShortDE": "Text DE 74"
+	},
+	{
+		"articleNumber": "00000075",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 75"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 75"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 75"
+			}
+		],
+		"price": 9.0521,
+		"articleTextShortDE": "Text DE 75"
+	},
+	{
+		"articleNumber": "00000076",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 76"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 76"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 76"
+			}
+		],
+		"price": 5.6935,
+		"articleTextShortDE": "Text DE 76"
+	},
+	{
+		"articleNumber": "00000077",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 77"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 77"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 77"
+			}
+		],
+		"price": 4.0698,
+		"articleTextShortDE": "Text DE 77"
+	},
+	{
+		"articleNumber": "00000078",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 78"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 78"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 78"
+			}
+		],
+		"price": 5.1986,
+		"articleTextShortDE": "Text DE 78"
+	},
+	{
+		"articleNumber": "00000079",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 79"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 79"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 79"
+			}
+		],
+		"price": 2.3391,
+		"articleTextShortDE": "Text DE 79"
+	},
+	{
+		"articleNumber": "00000080",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 80"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 80"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 80"
+			}
+		],
+		"price": 5.8697,
+		"articleTextShortDE": "Text DE 80"
+	},
+	{
+		"articleNumber": "00000081",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 81"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 81"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 81"
+			}
+		],
+		"price": 2.5691,
+		"articleTextShortDE": "Text DE 81"
+	},
+	{
+		"articleNumber": "00000082",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 82"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 82"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 82"
+			}
+		],
+		"price": 4.496,
+		"articleTextShortDE": "Text DE 82"
+	},
+	{
+		"articleNumber": "00000083",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 83"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 83"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 83"
+			}
+		],
+		"price": 9.49,
+		"articleTextShortDE": "Text DE 83"
+	},
+	{
+		"articleNumber": "00000084",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 84"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 84"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 84"
+			}
+		],
+		"price": 6.7393,
+		"articleTextShortDE": "Text DE 84"
+	},
+	{
+		"articleNumber": "00000085",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 85"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 85"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 85"
+			}
+		],
+		"price": 5.8882,
+		"articleTextShortDE": "Text DE 85"
+	},
+	{
+		"articleNumber": "00000086",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 86"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 86"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 86"
+			}
+		],
+		"price": 6.4591,
+		"articleTextShortDE": "Text DE 86"
+	},
+	{
+		"articleNumber": "00000087",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 87"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 87"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 87"
+			}
+		],
+		"price": 9.4387,
+		"articleTextShortDE": "Text DE 87"
+	},
+	{
+		"articleNumber": "00000088",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 88"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 88"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 88"
+			}
+		],
+		"price": 0.2129,
+		"articleTextShortDE": "Text DE 88"
+	},
+	{
+		"articleNumber": "00000089",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 89"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 89"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 89"
+			}
+		],
+		"price": 6.6703,
+		"articleTextShortDE": "Text DE 89"
+	},
+	{
+		"articleNumber": "00000090",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 90"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 90"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 90"
+			}
+		],
+		"price": 6.3753,
+		"articleTextShortDE": "Text DE 90"
+	},
+	{
+		"articleNumber": "00000091",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 91"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 91"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 91"
+			}
+		],
+		"price": 3.0943,
+		"articleTextShortDE": "Text DE 91"
+	},
+	{
+		"articleNumber": "00000092",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 92"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 92"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 92"
+			}
+		],
+		"price": 2.0847,
+		"articleTextShortDE": "Text DE 92"
+	},
+	{
+		"articleNumber": "00000093",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 93"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 93"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 93"
+			}
+		],
+		"price": 9.2192,
+		"articleTextShortDE": "Text DE 93"
+	},
+	{
+		"articleNumber": "00000094",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 94"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 94"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 94"
+			}
+		],
+		"price": 0.9939,
+		"articleTextShortDE": "Text DE 94"
+	},
+	{
+		"articleNumber": "00000095",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 95"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 95"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 95"
+			}
+		],
+		"price": 3.117,
+		"articleTextShortDE": "Text DE 95"
+	},
+	{
+		"articleNumber": "00000096",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 96"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 96"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 96"
+			}
+		],
+		"price": 2.8598,
+		"articleTextShortDE": "Text DE 96"
+	},
+	{
+		"articleNumber": "00000097",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 97"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 97"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 97"
+			}
+		],
+		"price": 5.3236,
+		"articleTextShortDE": "Text DE 97"
+	},
+	{
+		"articleNumber": "00000098",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 98"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 98"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 98"
+			}
+		],
+		"price": 8.5376,
+		"articleTextShortDE": "Text DE 98"
+	},
+	{
+		"articleNumber": "00000099",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 99"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 99"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 99"
+			}
+		],
+		"price": 5.2125,
+		"articleTextShortDE": "Text DE 99"
+	},
+	{
+		"articleNumber": "00000100",
+		"eanCode": null,
+		"articleTextShort": [
+			{
+				"lang": "de",
+				"value": "Text DE 100"
+			},
+			{
+				"lang": "fr",
+				"value": "Text FR 100"
+			},
+			{
+				"lang": "it",
+				"value": "Text IT 100"
+			}
+		],
+		"price": 3.5211,
+		"articleTextShortDE": "Text DE 100"
+	}
+]
